@@ -29,7 +29,7 @@ $ ./target/debug/nym-sfw-provider
      |_| |_|\__, |_| |_| |_|
             |___/
 
-             (store-and-forward provider - version 0.3.2)
+             (store-and-forward provider - version 0.4.0)
 
     usage: --help to see available options.
 ```
@@ -59,7 +59,7 @@ nym$ ./target/debug/nym-sfw-provider run --clientHost 127.0.0.1 --mixHost 127.0.
      |_| |_|\__, |_| |_| |_|
             |___/
 
-             (store-and-forward provider - version 0.3.2)
+             (store-and-forward provider - version 0.4.0)
 
 
 store_dir is: "/tmp/nym-provider/inboxes"

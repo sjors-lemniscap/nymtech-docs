@@ -21,7 +21,7 @@ nym$ target/release/nym-mixnode
      |_| |_|\__, |_| |_| |_|
             |___/
 
-             (mixnode - version 0.3.2)
+             (mixnode - version 0.4.0)
 
     usage: --help to see available options.
 ```
@@ -49,7 +49,7 @@ nym$  ./target/release/nym-mixnode run --host 127.0.0.1 --layer 1
      |_| |_|\__, |_| |_| |_|
             |___/
 
-             (mixnode - version 0.3.2)
+             (mixnode - version 0.4.0)
 
 
 Starting mixnode...

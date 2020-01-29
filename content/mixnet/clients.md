@@ -21,7 +21,7 @@ nym$ ./target/debug/nym-client
      |_| |_|\__, |_| |_| |_|
             |___/
 
-             (client - version 0.3.2)
+             (client - version 0.4.0)
 
     usage: --help to see available options.
 ```
@@ -46,7 +46,7 @@ nym$ ./target/debug/nym-client init --id alice
      |_| |_|\__, |_| |_| |_|
             |___/
 
-             (client - version 0.3.2)
+             (client - version 0.4.0)
 
 
 Initialising client...
@@ -72,7 +72,7 @@ $ ./target/debug/nym-client websocket --id alice
      |_| |_|\__, |_| |_| |_|
             |___/
 
-             (client - version 0.3.2)
+             (client - version 0.4.0)
 
 
 Starting websocket on port: 9001
